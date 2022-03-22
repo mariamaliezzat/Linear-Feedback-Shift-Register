@@ -1,0 +1,131 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Mohamed Ezzat/Desktop/digital diploma/session 5 ass
+vcounter
+Z1 !s110 1647531091
+!i10b 1
+!s100 MN_KX0^d5<V_mH_kklWK83
+Ii8H1L_]NUBn=1>XbeklLH3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1647530323
+8counter.v
+Fcounter.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1647531091.000000
+Z5 !s107 upper.v|top_tb.v|top.v|shift.v|counter.v|
+Z6 !s90 counter.v|shift.v|top.v|top_tb.v|upper.v|
+!i113 1
+Z7 tCvgOpt 0
+vD_filp_flop
+!s110 1647441916
+!i10b 1
+!s100 M6]VE5HamjPULNIDjRNjW3
+IT?K9ZCMN^RgFIS]X;QReK1
+R2
+R0
+w1647439477
+Z8 8shift.v
+Z9 Fshift.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1647441916.000000
+R5
+R6
+!i113 1
+R7
+n@d_filp_flop
+vshift
+R1
+!i10b 1
+!s100 Ph0j5O25]mG2[4Z4o5ne]1
+IdI1ZP`jnc=PLmEFIdX=4:1
+R2
+R0
+w1647456252
+R8
+R9
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vtop
+R1
+!i10b 1
+!s100 [NjBh8;SXlc7K^BT?DXXH1
+I2Y_cjbC2O5=92;_a7<RZM1
+R2
+R0
+w1647530751
+8top.v
+Ftop.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vtop_tb
+R1
+!i10b 1
+!s100 3WSSUl0Ce[gK^]nHDC_E82
+IgSnVi8=hOVoZ:Wll:Ifb>3
+R2
+R0
+w1647531075
+8top_tb.v
+Ftop_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vupper
+R1
+!i10b 1
+!s100 NQf4iBnEAIWBT;E:bYBA:0
+I99ogJPP9ooTY^?WDRnL@c1
+R2
+R0
+w1647456296
+8upper.v
+Fupper.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
